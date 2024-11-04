@@ -27,7 +27,7 @@ The dataset used for this analysis is the **"HR Data.xlsx"** file, containing de
 16. **Years of Experience and Manager Relationship:** Tracks years at the company, with the current manager, and years since the last promotion.
 
 ### Tools Used:
-- **Power BI**: This is used to visualize the findings through interactive dashboards.
+- **Power BI**: This visualizes the findings through interactive dashboards.
 
 ### Data Cleaning/ Preparation
 In the initial data preparation phase, I performed the following tasks:
@@ -64,5 +64,6 @@ In this project, I translated these findings into a user-friendly and interactiv
 
 ![HR Data Analysis Dashboard](https://github.com/Putsim/LITA_HR_Analysis/blob/main/HR%20data%20PBI.png)
 
-![HR Data Analysis Dashboard](
+![HR Data Analysis Dashboard](https://github.com/Putsim/LITA_HR_Analysis/blob/main/HR%20data%20contd%20PBI.png)
+
 
