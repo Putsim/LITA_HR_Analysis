@@ -4,10 +4,10 @@ This project demonstrates my ability to analyze and derive actionable insights f
 # HR Employee Data
 ---
 ### Project Overview
-In this project, I conducted an in-depth analysis of HR Employee data to provide actionable insights that drive business decisions. The objective was to explore key metrics such as the number of attrition, attrition rate, attrition count by department, gender, educational field, age group and job ratings based on attrition, culminating in an interactive Power BI dashboard. 
+In this project, I conducted an in-depth analysis of HR Employee data to provide actionable insights that drive business decisions. The objective was to explore key metrics such as the number of attrition, attrition rate, attrition count by department, gender, educational field, age group, and job ratings based on attrition, culminating in an interactive Power BI dashboard. 
 
 ### Data used:
-The dataset used for this analysis is the **"HR Data.xxsl"** file, containing detailed information about each employee. It comprises of 41 columns. The key columns are;
+The dataset used for this analysis is the **"HR Data.xlsx"** file, containing detailed information about each employee. It comprises of 41 columns. The key columns are;
 
 1. **Attrition**: Indicates whether the employee is still with the company ("No") or has left ("Yes").
 2. **Business Travel**: Specifies the frequency of business travel (e.g., "Travel_Rarely," "Travel_Frequently").
@@ -61,4 +61,8 @@ In this project, I translated these findings into a user-friendly and interactiv
 ```
 
 ### Data Visualization
+
+![HR Data Analysis Dashboard](https://github.com/Putsim/LITA_HR_Analysis/blob/main/HR%20data%20PBI.png)
+
+![HR Data Analysis Dashboard](
 
