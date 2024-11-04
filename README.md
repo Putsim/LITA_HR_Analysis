@@ -50,8 +50,15 @@ In this project, I translated these findings into a user-friendly and interactiv
 - Attrition based on age group and gender
   
 ### Data Analysis Expression Function
-- ** Attrition Rate**
+- **Attrition Rate**
+  ```DAX
+   = SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
   ```
-Attrition Rate = SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
 
-Average age = AVERAGE('HR data'[Age])
+- **Average Age**
+```DAX
+= AVERAGE('HR data'[Age])
+```
+
+### Data Visualization
+
