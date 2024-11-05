@@ -4,6 +4,28 @@ This project demonstrates my ability to analyze and derive actionable insights f
 # HR Employee Data
 ---
 
+## Table of Contents
+[Project Overview](#project-overview)
+
+[Data Used](#data-used)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis Expression Function](#data-analysis-expression-function)
+
+[Data Visualization](#data-visualization)
+
+[Results and Insights](#results-and-insights)
+
+[Conclusion](#conclusion)
+
+[Recommendations](#recommendations)
+
+
 ### Project Overview
 In this project, I conducted an in-depth analysis of HR Employee data to provide actionable insights that drive business decisions. The objective was to explore key metrics such as the number of attrition, attrition rate, attrition count by department, gender, educational field, age group, and job ratings based on attrition, culminating in an interactive Power BI dashboard. 
 
@@ -30,7 +52,7 @@ The dataset used for this analysis is the **"HR Data.xlsx"** file, containing de
 ### Tools Used:
 - **Power BI**: This visualizes the findings through interactive dashboards.
 
-### Data Cleaning/ Preparation
+### Data Cleaning and Preparation
 In the initial data preparation phase, I performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing variables.
