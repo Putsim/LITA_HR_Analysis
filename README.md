@@ -27,9 +27,11 @@ This project demonstrates my ability to analyze and derive actionable insights f
 
 
 ### Project Overview
+---
 In this project, I conducted an in-depth analysis of HR Employee data to provide actionable insights that drive business decisions. The objective was to explore key metrics such as the number of attrition, attrition rate, attrition count by department, gender, educational field, age group, and job ratings based on attrition, culminating in an interactive Power BI dashboard. 
 
 ### Data used:
+---
 The dataset used for this analysis is the **"HR Data.xlsx"** file, containing detailed information about each employee. It comprises of 41 columns. The key columns are;
 
 1. **Attrition**: Indicates whether the employee is still with the company ("No") or has left ("Yes").
@@ -50,15 +52,18 @@ The dataset used for this analysis is the **"HR Data.xlsx"** file, containing de
 16. **Years of Experience and Manager Relationship:** Tracks years at the company, with the current manager, and years since the last promotion.
 
 ### Tools Used:
+---
 - **Power BI**: This visualizes the findings through interactive dashboards.
 
 ### Data Cleaning and Preparation
+---
 In the initial data preparation phase, I performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing variables.
 3. Data cleaning and formatting.
 
 ### Exploratory Data Analysis
+---
 In this project, I translated these findings into a user-friendly and interactive dashboard with these key metrics.
 - Number of Attrition.
 - Attrition rate.
@@ -73,6 +78,7 @@ In this project, I translated these findings into a user-friendly and interactiv
 - Attrition based on age group and gender
   
 ### Data Analysis Expression Function
+---
 - **Attrition Rate**
   ```DAX
    = SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
@@ -84,12 +90,14 @@ In this project, I translated these findings into a user-friendly and interactiv
 ```
 
 ### Data Visualization
+---
 
 ![HR Data Analysis Dashboard](https://github.com/Putsim/LITA_HR_Analysis/blob/main/HR%20data%20PBI.png)
 
 ![HR Data Analysis Dashboard](https://github.com/Putsim/LITA_HR_Analysis/blob/main/HR%20data%20contd%20PBI.png)
 
 ## Results and Insights
+---
 - **Overall Workforce and Attrition**:
   - **Total Employees**: 1,470.
   - **Attrition Count**: 237 employees, resulting in an **attrition rate of 16%**.
@@ -142,9 +150,11 @@ These findings reveal areas for potential improvement in employee retention, par
 
 
 ### Conclusion
+---
 The **overall attrition rate of 16%** is largely driven by the **R&D department** and roles like **Lab Technicians and Sales Representatives**, indicating specific areas of job dissatisfaction. The **25-34 age group** has the highest attrition rate, which may suggest issues with career development or job satisfaction for early-career employees. Gender-based attrition skews toward males, while **Life Science** as an educational field shows significant job dissatisfaction at 28%. High attrition within certain fields and age groups highlights key areas that need attention to improve employee retention and satisfaction.
 
 ### Recommendations
+---
 1. **Targeted Retention Strategies**:
    - Address job satisfaction concerns among **Lab Technicians and Sales Representatives** by improving job conditions, providing clearer career growth paths, and possibly increasing engagement initiatives.
 2. **Career Development for Younger Employees**:
