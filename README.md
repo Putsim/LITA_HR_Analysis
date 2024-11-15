@@ -29,7 +29,7 @@ In this project, I conducted an in-depth analysis of HR Employee data to provide
 
 ### Data used:
 ---
-The dataset used for this analysis is the **"HR Data.xlsx"** file, containing detailed information about each employee. It comprises of 41 columns. The key columns are;
+The dataset used for this analysis is the **"HR Data.xlsx"** file  provided by the _Ladies in Tech Africa Data Analysis Program_. For more info see [The Incubator Hub](https://www.theincubatorng.org/). It contains detailed information about each employee comprising 41 columns. The key columns are;
 
 1. **Attrition**: Indicates whether the employee is still with the company ("No") or has left ("Yes").
 2. **Business Travel**: Specifies the frequency of business travel (e.g., "Travel_Rarely," "Travel_Frequently").
